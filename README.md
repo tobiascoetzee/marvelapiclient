@@ -12,4 +12,4 @@ You are going to need to get your own public and private key to use the client.
 4. Make the data being extracted configurable.
 5. Add support for date values.
 6. Make the data transformation plugable.
-
+7. Better toggling.
