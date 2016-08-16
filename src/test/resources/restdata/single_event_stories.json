@@ -1,0 +1,986 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2016 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2016 MARVEL",
+  "attributionHTML": "<a href=\"http://localhost:8080\">Data provided by Marvel. © 2016 MARVEL</a>",
+  "etag": "0faf94728c0bbd13fe0ee94b43071a193017006b",
+  "data": {
+    "offset": 0,
+    "limit": 10,
+    "total": 139,
+    "count": 10,
+    "results": [
+      {
+        "id": 12960,
+        "title": "Cover #12960",
+        "description": "",
+        "resourceURI": "http://localhost:8080/v1/public/stories/12960",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12960/creators",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/1282",
+              "name": "Ralph Macchio",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/5125",
+              "name": "Walter Simonson",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12960/characters",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009299",
+              "name": "Fantastic Four"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009356",
+              "name": "Human Torch"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009366",
+              "name": "Invisible Woman"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009459",
+              "name": "Mr. Fantastic"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009662",
+              "name": "Thing"
+            }
+          ],
+          "returned": 5
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12960/series",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2121",
+              "name": "Fantastic Four (1961 - 1998)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2254",
+              "name": "Fantastic Four Visionaries: Walter Simonson Vol. 1 (2007)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12960/comics",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/13155",
+              "name": "Fantastic Four (1961) #334"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/13535",
+              "name": "Fantastic Four Visionaries: Walter Simonson Vol. 1 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12960/events",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://localhost:8080/v1/public/comics/13155",
+          "name": "Fantastic Four (1961) #334"
+        }
+      },
+      {
+        "id": 12961,
+        "title": "Shadows of Alarm..!",
+        "description": "Several small-time super-villains attack Four Freedoms Plaza.",
+        "resourceURI": "http://localhost:8080/v1/public/stories/12961",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12961/creators",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/1216",
+              "name": "Rich Buckler",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/1894",
+              "name": "Bill Oakley",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/2053",
+              "name": "George Roussos",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/5125",
+              "name": "Walter Simonson",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/1884",
+              "name": "Romeo Tanghal",
+              "role": "inker"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 8,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12961/characters",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009179",
+              "name": "Beetle (Abner Jenkins)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009245",
+              "name": "Constrictor"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009299",
+              "name": "Fantastic Four"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009356",
+              "name": "Human Torch"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009366",
+              "name": "Invisible Woman"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009459",
+              "name": "Mr. Fantastic"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009664",
+              "name": "Thor"
+            }
+          ],
+          "returned": 8
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12961/series",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2121",
+              "name": "Fantastic Four (1961 - 1998)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2254",
+              "name": "Fantastic Four Visionaries: Walter Simonson Vol. 1 (2007)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12961/comics",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/13155",
+              "name": "Fantastic Four (1961) #334"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/13535",
+              "name": "Fantastic Four Visionaries: Walter Simonson Vol. 1 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12961/events",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://localhost:8080/v1/public/comics/13155",
+          "name": "Fantastic Four (1961) #334"
+        }
+      },
+      {
+        "id": 12962,
+        "title": "Cover #12962",
+        "description": "",
+        "resourceURI": "http://localhost:8080/v1/public/stories/12962",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12962/creators",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/1282",
+              "name": "Ralph Macchio",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/5125",
+              "name": "Walter Simonson",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 4,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12962/characters",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009299",
+              "name": "Fantastic Four"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009366",
+              "name": "Invisible Woman"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009459",
+              "name": "Mr. Fantastic"
+            }
+          ],
+          "returned": 4
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12962/series",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2121",
+              "name": "Fantastic Four (1961 - 1998)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2254",
+              "name": "Fantastic Four Visionaries: Walter Simonson Vol. 1 (2007)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12962/comics",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/13156",
+              "name": "Fantastic Four (1961) #335"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/13535",
+              "name": "Fantastic Four Visionaries: Walter Simonson Vol. 1 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12962/events",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://localhost:8080/v1/public/comics/13156",
+          "name": "Fantastic Four (1961) #335"
+        }
+      },
+      {
+        "id": 12963,
+        "title": "Death by Debate",
+        "description": "The FF testify before Congress.",
+        "resourceURI": "http://localhost:8080/v1/public/stories/12963",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12963/creators",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/1216",
+              "name": "Rich Buckler",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/1894",
+              "name": "Bill Oakley",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/2053",
+              "name": "George Roussos",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/5125",
+              "name": "Walter Simonson",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/1884",
+              "name": "Romeo Tanghal",
+              "role": "inker"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12963/characters",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009299",
+              "name": "Fantastic Four"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009356",
+              "name": "Human Torch"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009366",
+              "name": "Invisible Woman"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009459",
+              "name": "Mr. Fantastic"
+            }
+          ],
+          "returned": 5
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12963/series",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2121",
+              "name": "Fantastic Four (1961 - 1998)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2254",
+              "name": "Fantastic Four Visionaries: Walter Simonson Vol. 1 (2007)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12963/comics",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/13156",
+              "name": "Fantastic Four (1961) #335"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/13535",
+              "name": "Fantastic Four Visionaries: Walter Simonson Vol. 1 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12963/events",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://localhost:8080/v1/public/comics/13156",
+          "name": "Fantastic Four (1961) #335"
+        }
+      },
+      {
+        "id": 12964,
+        "title": "The Ultimate Super-Villain Team-Up!",
+        "description": "",
+        "resourceURI": "http://localhost:8080/v1/public/stories/12964",
+        "type": "cover",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12964/creators",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/1282",
+              "name": "Ralph Macchio",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/5125",
+              "name": "Walter Simonson",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12964/characters",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009662",
+              "name": "Thing"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12964/series",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2121",
+              "name": "Fantastic Four (1961 - 1998)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2254",
+              "name": "Fantastic Four Visionaries: Walter Simonson Vol. 1 (2007)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12964/comics",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/13157",
+              "name": "Fantastic Four (1961) #336"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/13535",
+              "name": "Fantastic Four Visionaries: Walter Simonson Vol. 1 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12964/events",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://localhost:8080/v1/public/comics/13157",
+          "name": "Fantastic Four (1961) #336"
+        }
+      },
+      {
+        "id": 12965,
+        "title": "Dark Congress!",
+        "description": "The FF continue to testify before Congress.",
+        "resourceURI": "http://localhost:8080/v1/public/stories/12965",
+        "type": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12965/creators",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/1898",
+              "name": "Mike DeCarlo",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/658",
+              "name": "Ron Lim",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/1894",
+              "name": "Bill Oakley",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/2053",
+              "name": "George Roussos",
+              "role": "colorist"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/5125",
+              "name": "Walter Simonson",
+              "role": "writer"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 6,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12965/characters",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009281",
+              "name": "Doctor Doom"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009299",
+              "name": "Fantastic Four"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009366",
+              "name": "Invisible Woman"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009459",
+              "name": "Mr. Fantastic"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009662",
+              "name": "Thing"
+            }
+          ],
+          "returned": 6
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12965/series",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2121",
+              "name": "Fantastic Four (1961 - 1998)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2254",
+              "name": "Fantastic Four Visionaries: Walter Simonson Vol. 1 (2007)"
+            }
+          ],
+          "returned": 2
+        },
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12965/comics",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/13157",
+              "name": "Fantastic Four (1961) #336"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/13535",
+              "name": "Fantastic Four Visionaries: Walter Simonson Vol. 1 (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://localhost:8080/v1/public/stories/12965/events",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://localhost:8080/v1/public/comics/13157",
+          "name": "Fantastic Four (1961) #336"
+        }
+      },
+      {
+        "id": 14056,
+        "title": "Gravity Storm!",
+        "description": "",
+        "resourceURI": "http://localhost:8080/v1/public/stories/14056",
+        "type": "cover",
+        "modified": "2012-11-26T18:59:59-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://localhost:8080/v1/public/stories/14056/creators",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/1034",
+              "name": "Colleen Doran",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/601",
+              "name": "Al Gordon",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/1833",
+              "name": "Jim Salicrup",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://localhost:8080/v1/public/stories/14056/characters",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://localhost:8080/v1/public/stories/14056/series",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/1987",
+              "name": "Amazing Spider-Man (1963 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://localhost:8080/v1/public/stories/14056/comics",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/6734",
+              "name": "Amazing Spider-Man (1963) #326"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://localhost:8080/v1/public/stories/14056/events",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://localhost:8080/v1/public/comics/6734",
+          "name": "Amazing Spider-Man (1963) #326"
+        }
+      },
+      {
+        "id": 14057,
+        "title": "Gravity Storm!",
+        "description": "Kingpin hires Graviton to take out Spidey and Gravvy figures the best way to find the Web-Slinger is to uproot the Daily Bugle building.",
+        "resourceURI": "http://localhost:8080/v1/public/stories/14057",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://localhost:8080/v1/public/stories/14057/creators",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/1034",
+              "name": "Colleen Doran",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/2784",
+              "name": "David Michelinie",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/2075",
+              "name": "Andy Mushynsky",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/1819",
+              "name": "Rick Parker",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/1832",
+              "name": "Bob Sharen",
+              "role": "colorist"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://localhost:8080/v1/public/stories/14057/characters",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://localhost:8080/v1/public/stories/14057/series",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/1987",
+              "name": "Amazing Spider-Man (1963 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://localhost:8080/v1/public/stories/14057/comics",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/6734",
+              "name": "Amazing Spider-Man (1963) #326"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://localhost:8080/v1/public/stories/14057/events",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://localhost:8080/v1/public/comics/6734",
+          "name": "Amazing Spider-Man (1963) #326"
+        }
+      },
+      {
+        "id": 14058,
+        "title": "Cover #14058",
+        "description": "",
+        "resourceURI": "http://localhost:8080/v1/public/stories/14058",
+        "type": "cover",
+        "modified": "2012-11-21T14:00:41-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://localhost:8080/v1/public/stories/14058/creators",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/601",
+              "name": "Al Gordon",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/704",
+              "name": "Erik Larsen",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/1833",
+              "name": "Jim Salicrup",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://localhost:8080/v1/public/stories/14058/characters",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://localhost:8080/v1/public/stories/14058/series",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/1987",
+              "name": "Amazing Spider-Man (1963 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://localhost:8080/v1/public/stories/14058/comics",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/6735",
+              "name": "Amazing Spider-Man (1963) #327"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://localhost:8080/v1/public/stories/14058/events",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://localhost:8080/v1/public/comics/6735",
+          "name": "Amazing Spider-Man (1963) #327"
+        }
+      },
+      {
+        "id": 14059,
+        "title": "Cunning Attractions!",
+        "description": "Magneto decides to confront Spider-Man directly, thinking Spidey's newfound abilities may mean that he is a new mutant.",
+        "resourceURI": "http://localhost:8080/v1/public/stories/14059",
+        "type": "story",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 6,
+          "collectionURI": "http://localhost:8080/v1/public/stories/14059/creators",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/601",
+              "name": "Al Gordon",
+              "role": "inker"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/704",
+              "name": "Erik Larsen",
+              "role": "penciller"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/2784",
+              "name": "David Michelinie",
+              "role": "writer"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/1819",
+              "name": "Rick Parker",
+              "role": "letterer"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/1833",
+              "name": "Jim Salicrup",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/creators/1832",
+              "name": "Bob Sharen",
+              "role": "colorist"
+            }
+          ],
+          "returned": 6
+        },
+        "characters": {
+          "available": 1,
+          "collectionURI": "http://localhost:8080/v1/public/stories/14059/characters",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 1
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://localhost:8080/v1/public/stories/14059/series",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/1987",
+              "name": "Amazing Spider-Man (1963 - 1998)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://localhost:8080/v1/public/stories/14059/comics",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/6735",
+              "name": "Amazing Spider-Man (1963) #327"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://localhost:8080/v1/public/stories/14059/events",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://localhost:8080/v1/public/comics/6735",
+          "name": "Amazing Spider-Man (1963) #327"
+        }
+      }
+    ]
+  }
+}

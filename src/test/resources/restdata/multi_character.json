@@ -1,0 +1,2002 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2016 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2016 MARVEL",
+  "attributionHTML": "<a href=\"http://localhost:8080\">Data provided by Marvel. © 2016 MARVEL</a>",
+  "etag": "a09cd1e3623d06162747e842d5a10203707a40f4",
+  "data": {
+    "offset": 300,
+    "limit": 11,
+    "total": 1485,
+    "count": 11,
+    "results": [
+      {
+        "id": 1009610,
+        "name": "Spider-Man",
+        "description": "Bitten by a radioactive spider, high school student Peter Parker gained the speed, strength and powers of a spider. Adopting the name Spider-Man, Peter hoped to start a career using his new abilities. Taught that with great power comes great responsibility, Spidey has vowed to use his powers to help people.",
+        "modified": "2014-06-02T12:35:16-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/526548a343e4b",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://localhost:8080/v1/public/characters/1009610",
+        "comics": {
+          "available": 2664,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1009610/comics",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/320",
+              "name": "Actor Presents Spider-Man and the Incredible Hulk (2003) #1"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/30090",
+              "name": "Age of Heroes (2010) #1"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/30885",
+              "name": "Age of Heroes (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/37255",
+              "name": "Alias Omnibus (Hardcover)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/46847",
+              "name": "Alpha (2013) #0.1"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/46848",
+              "name": "Alpha (2013) #1"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/12637",
+              "name": "Alpha Flight (1983) #1"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/12668",
+              "name": "Alpha Flight (1983) #127"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/6233",
+              "name": "Alpha Flight Classic Vol. 1 (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/3105",
+              "name": "Amazing Fantasy (2004) #15"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/16926",
+              "name": "Amazing Fantasy (1962) #15"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/41139",
+              "name": "Amazing Fantasy 15: Spider-Man! (2011) #1"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/16214",
+              "name": "Amazing Fantasy Omnibus (Hardcover)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/5286",
+              "name": "Amazing Spider-Girl (2006)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/16151",
+              "name": "Amazing Spider-Girl (2006) #11"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/13519",
+              "name": "Amazing Spider-Girl Vol. 1: Whatever Happened to the Daughter of Spider-Man (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/17305",
+              "name": "Amazing Spider-Girl Vol. 2: Comes the Carnage! (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/6482",
+              "name": "Amazing Spider-Man (1963) #1"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/37894",
+              "name": "Amazing Spider-Man (1999) #1"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/56495",
+              "name": "Amazing Spider-Man (2015) #1.5"
+            }
+          ],
+          "returned": 20
+        },
+        "series": {
+          "available": 551,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1009610/series",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/458",
+              "name": "Actor Presents Spider-Man and the Incredible Hulk (2003)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/9790",
+              "name": "Age of Heroes (2010)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/10235",
+              "name": "Age of Heroes (2011)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/17318",
+              "name": "Age of Ultron (2013)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/13383",
+              "name": "Alias Omnibus (2006)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/17650",
+              "name": "Alpha (2013 - Present)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2116",
+              "name": "Alpha Flight (1983 - 1994)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/1983",
+              "name": "Alpha Flight Classic Vol. 1 (2007)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/769",
+              "name": "Amazing Fantasy (2004 - 2006)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2987",
+              "name": "Amazing Fantasy (1962)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/15280",
+              "name": "Amazing Fantasy 15: Spider-Man! (2011 - 2012)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2707",
+              "name": "Amazing Fantasy Omnibus (2007)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/1126",
+              "name": "Amazing Spider-Girl (2006 - 2009)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2234",
+              "name": "Amazing Spider-Girl Vol. 1: Whatever Happened to the Daughter of Spider-Man (2007)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/3101",
+              "name": "Amazing Spider-Girl Vol. 2: Comes the Carnage! (2007)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/1987",
+              "name": "Amazing Spider-Man (1963 - 1998)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/454",
+              "name": "Amazing Spider-Man (1999 - 2013)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/20432",
+              "name": "Amazing Spider-Man (2015 - Present)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/20694",
+              "name": "Amazing Spider-Man (2015 - Present)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/17285",
+              "name": "Amazing Spider-Man (2014 - Present)"
+            }
+          ],
+          "returned": 20
+        },
+        "stories": {
+          "available": 20,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1009610/stories",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/483",
+              "name": "Interior #483",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/486",
+              "name": "Cover #486",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/487",
+              "name": "Interior #487",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/499",
+              "name": "Interior #499",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/599",
+              "name": "Interior #599",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/805",
+              "name": "Interior #805",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/824",
+              "name": "Cover #824",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/838",
+              "name": "3 of 3 - Family Business",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/842",
+              "name": "1 of 1 -  Secret of the Spider Shop",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/867",
+              "name": "Interior #867",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/1018",
+              "name": "Cover #1018",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/1019",
+              "name": "Interior #1019",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/1020",
+              "name": "Cover #1020",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/1021",
+              "name": "Interior #1021",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/1022",
+              "name": "Cover #1022",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/1023",
+              "name": "Interior #1023",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/1076",
+              "name": "4 of 4 - Golden Age",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/1125",
+              "name": "6 of 6 - Sins Past",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/1126",
+              "name": "6 of 6 - Sins Past",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/1134",
+              "name": "Interior #1134",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 31,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1009610/events",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/116",
+              "name": "Acts of Vengeance!"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/314",
+              "name": "Age of Ultron"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/233",
+              "name": "Atlantis Attacks"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/234",
+              "name": "Avengers Disassembled"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/310",
+              "name": "Avengers VS X-Men"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/296",
+              "name": "Chaos War"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/238",
+              "name": "Civil War"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/318",
+              "name": "Dark Reign"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/240",
+              "name": "Days of Future Present"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/246",
+              "name": "Evolutionary War"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/302",
+              "name": "Fear Itself"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/251",
+              "name": "House of M"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/252",
+              "name": "Inferno"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/253",
+              "name": "Infinity Gauntlet"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/255",
+              "name": "Initiative"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/258",
+              "name": "Kraven's Last Hunt"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/151",
+              "name": "Maximum Carnage"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/37",
+              "name": "Maximum Security"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/154",
+              "name": "Onslaught"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/266",
+              "name": "Other - Evolve or Die"
+            }
+          ],
+          "returned": 20
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://localhost:8080/characters/54/spider-man?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          },
+          {
+            "type": "wiki",
+            "url": "http://localhost:8080/universe/Spider-Man_(Peter_Parker)?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          },
+          {
+            "type": "comiclink",
+            "url": "http://localhost:8080/comics/characters/1009610/spider-man?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          }
+        ]
+      },
+      {
+        "id": 1017474,
+        "name": "Deadpool (X-Men: Battle of the Atom)",
+        "description": "",
+        "modified": "2014-01-15T19:40:09-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/6/20/52d72a5b55a55",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://localhost:8080/v1/public/characters/1017474",
+        "comics": {
+          "available": 0,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1017474/comics",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 0,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1017474/series",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 0,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1017474/stories",
+          "items": [],
+          "returned": 0
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1017474/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://localhost:8080/characters/12/deadpool?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          },
+          {
+            "type": "comiclink",
+            "url": "http://localhost:8080/comics/characters/1017474/deadpool_x-men_battle_of_the_atom?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          }
+        ]
+      },
+      {
+        "id": 1009269,
+        "name": "Death",
+        "description": "",
+        "modified": "2013-10-17T14:52:53-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/80/526031f5a21eb",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://localhost:8080/v1/public/characters/1009269",
+        "comics": {
+          "available": 21,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1009269/comics",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/8136",
+              "name": "Daredevil (1964) #156"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/8488",
+              "name": "Deadpool (1997) #33"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/8489",
+              "name": "Deadpool (1997) #34"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/8490",
+              "name": "Deadpool (1997) #35"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/8491",
+              "name": "Deadpool (1997) #36"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/8492",
+              "name": "Deadpool (1997) #37"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/40209",
+              "name": "Deadpool (2008) #50"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/8519",
+              "name": "Deadpool (1997) #61"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/20181",
+              "name": "Doctor Strange, Sorcerer Supreme (1988) #21"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/20207",
+              "name": "Doctor Strange, Sorcerer Supreme (1988) #45"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/1773",
+              "name": "Fantastic Four Visionaries: John Byrne Vol. 5 (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/9286",
+              "name": "Infinity Gauntlet (1991) #1"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/9287",
+              "name": "Infinity Gauntlet (1991) #2"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/9288",
+              "name": "Infinity Gauntlet (1991) #3"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/10379",
+              "name": "New Mutants (1983) #41"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/37592",
+              "name": "New Mutants Classic Vol. 6 (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/46883",
+              "name": "Thanos Rising (2013) #4"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/46884",
+              "name": "Thanos Rising (2013) #5"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/18727",
+              "name": "The Thing (1983) #19"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/18172",
+              "name": "X-Men Chronicles (1995) #1"
+            }
+          ],
+          "returned": 20
+        },
+        "series": {
+          "available": 12,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1009269/series",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2002",
+              "name": "Daredevil (1964 - 1998)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2005",
+              "name": "Deadpool (1997 - 2002)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/5701",
+              "name": "Deadpool (2008 - 2012)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/3741",
+              "name": "Doctor Strange, Sorcerer Supreme (1988 - 1996)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/1449",
+              "name": "Fantastic Four Visionaries: John Byrne Vol. 5 (2005)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2023",
+              "name": "Infinity Gauntlet (1991)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2055",
+              "name": "New Mutants (1983 - 1991)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/13519",
+              "name": "New Mutants Classic Vol. 6 (2010 - Present)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/17661",
+              "name": "Thanos Rising (2013 - Present)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/3667",
+              "name": "The Thing (1983 - 1986)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/3640",
+              "name": "X-Men Chronicles (1995)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/1452",
+              "name": "X-Men: The Complete Age of Apocalypse Epic Book 1 (2005)"
+            }
+          ],
+          "returned": 12
+        },
+        "stories": {
+          "available": 20,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1009269/stories",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/15838",
+              "name": "Ring of Death!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/21460",
+              "name": "Way of the Warrior",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/23950",
+              "name": "Cover #23950",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/23952",
+              "name": "Cover #23952",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/23954",
+              "name": "Cover #23954",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/24587",
+              "name": "Deadpool (1997) #33",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/24590",
+              "name": "Deadpool (1997) #34",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/24593",
+              "name": "Deadpool (1997) #35",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/24595",
+              "name": "Deadpool (1997) #36",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/24598",
+              "name": "Deadpool (1997) #37",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/38623",
+              "name": "Cover #38623",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/38624",
+              "name": "Origins",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/40074",
+              "name": "Cover #40074",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/43234",
+              "name": "TBOTV: Legends and Lore of the Dark Dimension, Part 1",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/43293",
+              "name": "Death's Greatest Hits",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/83111",
+              "name": "Interior #83111",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/91226",
+              "name": "Cover #91226",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/91227",
+              "name": "Interior #91227",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/105388",
+              "name": "cover from Thanos (2013) #4",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/105390",
+              "name": "cover from Thanos (2013) #5",
+              "type": "cover"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 3,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1009269/events",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/227",
+              "name": "Age of Apocalypse"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/253",
+              "name": "Infinity Gauntlet"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/29",
+              "name": "Infinity War"
+            }
+          ],
+          "returned": 3
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://localhost:8080/characters/521/death?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          },
+          {
+            "type": "wiki",
+            "url": "http://localhost:8080/universe/Death_(embodiment)?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          },
+          {
+            "type": "comiclink",
+            "url": "http://localhost:8080/comics/characters/1009269/death?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          }
+        ]
+      },
+      {
+        "id": 1009270,
+        "name": "Deathbird",
+        "description": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/2/60/4c004041be770",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://localhost:8080/v1/public/characters/1009270",
+        "comics": {
+          "available": 26,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1009270/comics",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/7051",
+              "name": "Avengers (1963) #189"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/5368",
+              "name": "Avengers: Galactic Storm Vol. 2 (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/20615",
+              "name": "Bishop: The Last X-Man (1999) #15"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/37085",
+              "name": "Chaos War: Dead Avengers (2010) #2"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/9526",
+              "name": "Iron Man (1968) #279"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/13702",
+              "name": "Uncanny X-Men (1963) #161"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/13703",
+              "name": "Uncanny X-Men (1963) #162"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/13815",
+              "name": "Uncanny X-Men (1963) #274"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/13816",
+              "name": "Uncanny X-Men (1963) #275"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/13883",
+              "name": "Uncanny X-Men (1963) #342"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/13884",
+              "name": "Uncanny X-Men (1963) #343"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/13885",
+              "name": "Uncanny X-Men (1963) #344"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/13886",
+              "name": "Uncanny X-Men (1963) #345"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/13887",
+              "name": "Uncanny X-Men (1963) #346"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/13888",
+              "name": "Uncanny X-Men (1963) #347"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/13889",
+              "name": "Uncanny X-Men (1963) #348"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/13894",
+              "name": "Uncanny X-Men (1963) #353"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/13895",
+              "name": "Uncanny X-Men (1963) #354"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/13898",
+              "name": "Uncanny X-Men (1963) #357"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/13899",
+              "name": "Uncanny X-Men (1963) #358"
+            }
+          ],
+          "returned": 20
+        },
+        "series": {
+          "available": 9,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1009270/series",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/1991",
+              "name": "Avengers (1963 - 1996)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/1679",
+              "name": "Avengers: Galactic Storm Vol. 2 (2006)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/3753",
+              "name": "Bishop: The Last X-Man (1999 - 2001)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/13257",
+              "name": "Chaos War: Dead Avengers (2010 - 2011)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2029",
+              "name": "Iron Man (1968 - 1996)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2258",
+              "name": "Uncanny X-Men (1963 - 2011)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2265",
+              "name": "X-Men (1991 - 2001)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/3637",
+              "name": "X-Men Unlimited (1993 - 1999)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/139",
+              "name": "X-Men Visionaries: Jim Lee (2002)"
+            }
+          ],
+          "returned": 9
+        },
+        "stories": {
+          "available": 30,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1009270/stories",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/14641",
+              "name": "Wings and Arrows!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/19535",
+              "name": "Bad Judgment",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/27831",
+              "name": "Gold Rush!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/27833",
+              "name": "Beyond the Farthest Star",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/28058",
+              "name": "Crossroads",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/28059",
+              "name": "Cover #28059",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/28060",
+              "name": "The Path Not Taken",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/28206",
+              "name": "[...Did I Miss Something?]",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/28209",
+              "name": "Where No X-Man Has Gone Before!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/28210",
+              "name": "Showdown on Throneworld!",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/28211",
+              "name": "Casualties of War",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/28213",
+              "name": "Moving On",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/28215",
+              "name": "Meet The Uncanny X-Men",
+              "type": "recap"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/28218",
+              "name": "Meet The Uncanny X-Men",
+              "type": "recap"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/28221",
+              "name": "Meet The Uncanny X-Men",
+              "type": "recap"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/28222",
+              "name": "Because, I Said So",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/28236",
+              "name": "Blackbirds",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/28239",
+              "name": "Prehistory",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/28248",
+              "name": "The Sky Is Falling",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/28249",
+              "name": "Two Against A Galaxy!",
+              "type": "cover"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 2,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1009270/events",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/296",
+              "name": "Chaos War"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/37",
+              "name": "Maximum Security"
+            }
+          ],
+          "returned": 2
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://localhost:8080/characters/525/deathbird?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          },
+          {
+            "type": "wiki",
+            "url": "http://localhost:8080/universe/Deathbird?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          },
+          {
+            "type": "comiclink",
+            "url": "http://localhost:8080/comics/characters/1009270/deathbird?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          }
+        ]
+      },
+      {
+        "id": 1011037,
+        "name": "Deathcry",
+        "description": "",
+        "modified": "2014-04-29T14:46:34-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/9/d0/535ff379c7c1b",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://localhost:8080/v1/public/characters/1011037",
+        "comics": {
+          "available": 3,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1011037/comics",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/16191",
+              "name": "Annihilation: Conquest - Starlord (2007) #2"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/37633",
+              "name": "Chaos War: Avengers (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/37064",
+              "name": "Chaos War: Dead Avengers (2010) #1"
+            }
+          ],
+          "returned": 3
+        },
+        "series": {
+          "available": 3,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1011037/series",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2541",
+              "name": "Annihilation: Conquest - Starlord (2007)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/13527",
+              "name": "Chaos War: Avengers (2010 - Present)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/13257",
+              "name": "Chaos War: Dead Avengers (2010 - 2011)"
+            }
+          ],
+          "returned": 3
+        },
+        "stories": {
+          "available": 3,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1011037/stories",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/33072",
+              "name": "Annihilation Conquest: Starlord (2007) #2",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/82163",
+              "name": "Cover #82163",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/82164",
+              "name": "Interior #82164",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 3
+        },
+        "events": {
+          "available": 2,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1011037/events",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/293",
+              "name": "Annihilation: Conquest"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/296",
+              "name": "Chaos War"
+            }
+          ],
+          "returned": 2
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://localhost:8080/characters/526/deathcry?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          },
+          {
+            "type": "wiki",
+            "url": "http://localhost:8080/universe/Deathcry?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          },
+          {
+            "type": "comiclink",
+            "url": "http://localhost:8080/comics/characters/1011037/deathcry?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          }
+        ]
+      },
+      {
+        "id": 1010890,
+        "name": "Deathlok",
+        "description": "&nbsp;",
+        "modified": "2014-06-20T14:45:18-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/7/10/526165a98dd8e",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://localhost:8080/v1/public/characters/1010890",
+        "comics": {
+          "available": 23,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1010890/comics",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/29136",
+              "name": "Deathlok (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/24967",
+              "name": "Deathlok (2009) #1"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/24968",
+              "name": "Deathlok (2009) #1 (BUCKLER VARIANT)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/24969",
+              "name": "Deathlok (2009) #2"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/24970",
+              "name": "Deathlok (2009) #3"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/24971",
+              "name": "Deathlok (2009) #4"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/30398",
+              "name": "Deathlok (2009) #5"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/30399",
+              "name": "Deathlok (2009) #6"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/30400",
+              "name": "Deathlok (2009) #7"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/10144",
+              "name": "Marvel Comics Presents (1988) #62"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/5637",
+              "name": "Marvel Comics Presents: Wolverine Vol. 4 (Trade Paperback)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/19815",
+              "name": "Marvel Fanfare (1982) #4"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/19797",
+              "name": "Marvel Fanfare (1982) #23"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/19751",
+              "name": "Marvel Spotlight (1971) #33"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/19525",
+              "name": "Marvel Two-in-One (1974) #54"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/16121",
+              "name": "New Avengers (2004) #33"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/27733",
+              "name": "Nick Fury, Agent of Shield (1989) #30"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/50847",
+              "name": "Original Sins (2014) #1"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/10504",
+              "name": "Paradise X (2002) #9"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/16209",
+              "name": "Paradise X Vol. 2 (New Printing) (Trade Paperback)"
+            }
+          ],
+          "returned": 20
+        },
+        "series": {
+          "available": 13,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1010890/series",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/9430",
+              "name": "Deathlok (2010 - Present)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/7721",
+              "name": "Deathlok (2009 - 2010)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2039",
+              "name": "Marvel Comics Presents (1988 - 1995)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/1697",
+              "name": "Marvel Comics Presents: Wolverine Vol. 4 (2006)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/3719",
+              "name": "Marvel Fanfare (1982 - 1992)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/3717",
+              "name": "Marvel Spotlight (1971 - 1977)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/3715",
+              "name": "Marvel Two-in-One (1974 - 1983)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/753",
+              "name": "New Avengers (2004 - 2010)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/8852",
+              "name": "Nick Fury, Agent of Shield (1989 - 1992)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/19030",
+              "name": "Original Sins (2014 - Present)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2059",
+              "name": "Paradise X (2002 - 2003)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2702",
+              "name": "Paradise X Vol. 2 (New Printing) (2007)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/9976",
+              "name": "Uncanny X-Force (2010 - 2012)"
+            }
+          ],
+          "returned": 13
+        },
+        "stories": {
+          "available": 22,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1010890/stories",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/23469",
+              "name": "Test Run",
+              "type": ""
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/26039",
+              "name": "Cover #26039",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/32923",
+              "name": "New Avengers (2004) #33",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/41409",
+              "name": "Blood and Bionics",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/41872",
+              "name": "Cover #41872",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/41873",
+              "name": "(Don't Fear) The Reaper!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/42187",
+              "name": "pin-up",
+              "type": "pinup"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/42310",
+              "name": "Mindgame",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/55167",
+              "name": "Interior #55167",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/55169",
+              "name": "Interior #55169",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/55171",
+              "name": "Interior #55171",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/55173",
+              "name": "Interior #55173",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/55175",
+              "name": "Interior #55175",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/60793",
+              "name": "Infinity's Not Forever",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/63464",
+              "name": "Interior #63464",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/69623",
+              "name": "Interior #69623",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/69625",
+              "name": "Interior #69625",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/69627",
+              "name": "Interior #69627",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/73589",
+              "name": "Uncanny X-Force (2010) #8",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/80022",
+              "name": "Interior #80022",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1010890/events",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/319",
+              "name": "Original Sin"
+            }
+          ],
+          "returned": 1
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://localhost:8080/characters/527/deathlok?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          },
+          {
+            "type": "wiki",
+            "url": "http://localhost:8080/universe/Deathlok?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          },
+          {
+            "type": "comiclink",
+            "url": "http://localhost:8080/comics/characters/1010890/deathlok?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          }
+        ]
+      },
+      {
+        "id": 1014997,
+        "name": "Deathstrike (Ultimate)",
+        "description": "",
+        "modified": "2012-07-11T09:19:40-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://localhost:8080/v1/public/characters/1014997",
+        "comics": {
+          "available": 2,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1014997/comics",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/2116",
+              "name": "Ultimate X-Men (2000) #60"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/3038",
+              "name": "Ultimate X-Men Vol. 12: Hard Lessons (Trade Paperback)"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1014997/series",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/474",
+              "name": "Ultimate X-Men (2000 - 2009)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/1519",
+              "name": "Ultimate X-Men Vol. 12: Hard Lessons (2005)"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 1,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1014997/stories",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/1452",
+              "name": "2 of 2 - Wolverine & Storm",
+              "type": "cover"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1014997/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://localhost:8080/characters/528/deathstrike?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          },
+          {
+            "type": "comiclink",
+            "url": "http://localhost:8080/comics/characters/1014997/deathstrike_ultimate?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          }
+        ]
+      },
+      {
+        "id": 1009713,
+        "name": "Debra Whitman",
+        "description": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://localhost:8080/v1/public/characters/1009713",
+        "comics": {
+          "available": 0,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1009713/comics",
+          "items": [],
+          "returned": 0
+        },
+        "series": {
+          "available": 0,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1009713/series",
+          "items": [],
+          "returned": 0
+        },
+        "stories": {
+          "available": 0,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1009713/stories",
+          "items": [],
+          "returned": 0
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1009713/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://localhost:8080/characters/2784/debra_whitman?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          },
+          {
+            "type": "comiclink",
+            "url": "http://localhost:8080/comics/characters/1009713/debra_whitman?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          }
+        ]
+      },
+      {
+        "id": 1010717,
+        "name": "Debrii",
+        "description": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/5/a0/4c0038c02e75a",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://localhost:8080/v1/public/characters/1010717",
+        "comics": {
+          "available": 3,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1010717/comics",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/2408",
+              "name": "New Warriors (2005) #4"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/3119",
+              "name": "New Warriors (2005) #6"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/3462",
+              "name": "New Warriors: Reality Check (Trade Paperback)"
+            }
+          ],
+          "returned": 3
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1010717/series",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/839",
+              "name": "New Warriors (2005)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/1410",
+              "name": "New Warriors: Reality Check (2006)"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 2,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1010717/stories",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/4320",
+              "name": "4 of 6",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/4324",
+              "name": "6 of 6",
+              "type": "cover"
+            }
+          ],
+          "returned": 2
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1010717/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://localhost:8080/characters/533/debrii?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          },
+          {
+            "type": "wiki",
+            "url": "http://localhost:8080/universe/Debrii?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          },
+          {
+            "type": "comiclink",
+            "url": "http://localhost:8080/comics/characters/1010717/debrii?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          }
+        ]
+      },
+      {
+        "id": 1011188,
+        "name": "Deena Pilgrim",
+        "description": "",
+        "modified": "1969-12-31T19:00:00-0500",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/b/40/image_not_available",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://localhost:8080/v1/public/characters/1011188",
+        "comics": {
+          "available": 3,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1011188/comics",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/29007",
+              "name": "Powers (2009) #8"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/29008",
+              "name": "Powers (2009) #9"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/39376",
+              "name": "Powers: Who Killed Retro Girl? (Hardcover)"
+            }
+          ],
+          "returned": 3
+        },
+        "series": {
+          "available": 2,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1011188/series",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/9073",
+              "name": "Powers (2009 - 2012)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/14331",
+              "name": "Powers: Who Killed Retro Girl? (2011 - Present)"
+            }
+          ],
+          "returned": 2
+        },
+        "stories": {
+          "available": 4,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1011188/stories",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/63205",
+              "name": "Cover #63205",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/63206",
+              "name": "Interior #63206",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/63207",
+              "name": "Cover #63207",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/89373",
+              "name": "Powers: Who Killed Retro Girl? Premiere HC",
+              "type": "cover"
+            }
+          ],
+          "returned": 4
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1011188/events",
+          "items": [],
+          "returned": 0
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://localhost:8080/characters/2889/deena_pilgrim?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          },
+          {
+            "type": "comiclink",
+            "url": "http://localhost:8080/comics/characters/1011188/deena_pilgrim?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          }
+        ]
+      },
+      {
+        "id": 1011023,
+        "name": "Defenders",
+        "description": "",
+        "modified": "2013-10-17T14:53:26-0400",
+        "thumbnail": {
+          "path": "http://i.annihil.us/u/prod/marvel/i/mg/3/80/526031e9c785a",
+          "extension": "jpg"
+        },
+        "resourceURI": "http://localhost:8080/v1/public/characters/1011023",
+        "comics": {
+          "available": 179,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1011023/comics",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/16655",
+              "name": "Avengers/Defenders War Premiere (Hardcover)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/2160",
+              "name": "Defenders (2005) #1"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/20262",
+              "name": "Defenders (1972) #1"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/39757",
+              "name": "Defenders (2011) #1"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/20326",
+              "name": "Defenders (1972) #2"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/2290",
+              "name": "Defenders (2005) #2"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/2389",
+              "name": "Defenders (2005) #3"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/39763",
+              "name": "Defenders (2011) #3"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/20337",
+              "name": "Defenders (1972) #3"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/2458",
+              "name": "Defenders (2005) #4"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/20348",
+              "name": "Defenders (1972) #4"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/20359",
+              "name": "Defenders (1972) #5"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/39759",
+              "name": "Defenders (2011) #5"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/3047",
+              "name": "Defenders (2005) #5"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/39761",
+              "name": "Defenders (2011) #6"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/20370",
+              "name": "Defenders (1972) #6"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/20381",
+              "name": "Defenders (1972) #7"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/20392",
+              "name": "Defenders (1972) #8"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/39767",
+              "name": "Defenders (2011) #8"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/comics/20403",
+              "name": "Defenders (1972) #9"
+            }
+          ],
+          "returned": 20
+        },
+        "series": {
+          "available": 14,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1011023/series",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2962",
+              "name": "Avengers/Defenders War Premiere (2007)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/14701",
+              "name": "Defenders (2011 - 2012)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/3743",
+              "name": "Defenders (1972 - 1986)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/728",
+              "name": "Defenders (2005 - 2006)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/3290",
+              "name": "Defenders: Indefensible (2005)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/15309",
+              "name": "Defenders: The Coming of the Defenders (2011)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/15308",
+              "name": "Defenders: Tournament of Heroes (2011 - 2012)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/14059",
+              "name": "Fear Itself: The Deep (2011)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/3731",
+              "name": "Giant-Size Defenders (1974)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/2023",
+              "name": "Infinity Gauntlet (1991)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/6676",
+              "name": "Marvel Feature (1971 - 1973)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/5250",
+              "name": "Marvel Masterworks: The Defenders Vol. 1 (2008)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/5249",
+              "name": "Marvel Masterworks: The Defenders Vol. 1 (2008)"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/series/1658",
+              "name": "Omega: The Unknown Classic (2005)"
+            }
+          ],
+          "returned": 14
+        },
+        "stories": {
+          "available": 207,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1011023/stories",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/3099",
+              "name": "1 of 5",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/3100",
+              "name": "1 of 5",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/3102",
+              "name": "2 of 5",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/3104",
+              "name": "3 of 5",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/3106",
+              "name": "4 of 5",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/3108",
+              "name": "5 of 5",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/23954",
+              "name": "Cover #23954",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/23956",
+              "name": "Cover #23956",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/23958",
+              "name": "Cover #23958",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/23960",
+              "name": "Cover #23960",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/37712",
+              "name": "In Honor's Name!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/42878",
+              "name": "Cover #42878",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/42885",
+              "name": "Cover #42885",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/42899",
+              "name": "Cover #42899",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/43423",
+              "name": "I Slay by the Stars!",
+              "type": "cover"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/43424",
+              "name": "I Slay By The Stars!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/43426",
+              "name": "Breakthrough!",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/43428",
+              "name": "Hell on Earth",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/43430",
+              "name": "Renewal",
+              "type": "interiorStory"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/stories/43432",
+              "name": "Mind Games!",
+              "type": "interiorStory"
+            }
+          ],
+          "returned": 20
+        },
+        "events": {
+          "available": 4,
+          "collectionURI": "http://localhost:8080/v1/public/characters/1011023/events",
+          "items": [
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/302",
+              "name": "Fear Itself"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/253",
+              "name": "Infinity Gauntlet"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/271",
+              "name": "Secret Wars II"
+            },
+            {
+              "resourceURI": "http://localhost:8080/v1/public/events/309",
+              "name": "Shattered Heroes"
+            }
+          ],
+          "returned": 4
+        },
+        "urls": [
+          {
+            "type": "detail",
+            "url": "http://localhost:8080/characters/534/defenders?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          },
+          {
+            "type": "wiki",
+            "url": "http://localhost:8080/universe/Defenders?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          },
+          {
+            "type": "comiclink",
+            "url": "http://localhost:8080/comics/characters/1011023/defenders?utm_campaign=apiRef&utm_source=b78feb5c7c46161271cf3a6a38f1d88d"
+          }
+        ]
+      }
+    ]
+  }
+}
